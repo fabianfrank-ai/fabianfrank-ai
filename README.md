@@ -1,4 +1,4 @@
-##👋 Hi, I´m Fabi
+## 👋 Hi, I´m Fabi
 
 I´m a German Machine Learning & Data Engineering student based in Finland
 I love solving problems with AI and building smart systems, even though I´m still new to the field.
