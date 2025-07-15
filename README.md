@@ -11,6 +11,7 @@ I love solving problems with AI and building smart systems, even though I´m sti
 
 ## 🧪 Projects
 -https://github.com/fabianfrank-ai/simple-mlp -work in progress
+
 -🚀more coming soon...
 
 ## 🎯 Goals
