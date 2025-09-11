@@ -9,10 +9,6 @@ I love solving problems with AI and building smart systems, even though I´m sti
 -SQL & MongoDB
 -Github
 
-## 🧪 Projects
--https://github.com/fabianfrank-ai/simple-mlp -work in progress
-
--🚀more coming soon...
 
 ## 🎯 Goals
 - Expand my ML skills through hands-on projects
