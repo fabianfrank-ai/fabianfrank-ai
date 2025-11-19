@@ -1,11 +1,11 @@
 # 💫 About Me:
-•	Experience with GPU-accelerated computation using CuPy and NumPy
-•	Building custom symbolic MLP architectures with manual gradient computation
-•	Skilled in SymPy, scikit-learn, Matplotlib, and interactive data visualization
-•	Interested in robotics, autonomous systems, and real-world ML applications
-•	Strong focus on model stability, training optimization, and error analysis
-•	Passionate about clean architecture, reproducible pipelines, and debugging
-•	Curious about large-scale ML systems, applied AI, and high-performance computing
+•	Experience with GPU-accelerated computation using CuPy and NumPy <br>
+•	Building custom symbolic MLP architectures with manual gradient computation <br>
+•	Skilled in SymPy, scikit-learn, Matplotlib, and interactive data visualization <br>
+•	Interested in robotics, autonomous systems, and real-world ML applications <br>
+•	Strong focus on model stability, training optimization, and error analysis <br>
+•	Passionate about clean architecture, reproducible pipelines, and debugging <br>
+•	Curious about large-scale ML systems, applied AI, and high-performance computing <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jYQcBY9e) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabi.frxk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frankfabian945@outlook.de) 
